@@ -18,3 +18,8 @@ Several lecture notes have also benefitted from [JW Mason](http://jwmason.org/)'
 <br>
 
  
+## Extra Resources
+
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [`ggplot2`: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)
+- [Cédric Scherer's comprehensive `ggplot2` tutorial](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
