@@ -17,6 +17,39 @@ Several lecture notes have also benefitted from [JW Mason](http://jwmason.org/)'
 
 <br>
 
+**Lecture 0: What are we doing here?**
+
+  - Slides: [`html`]() | [`pdf`]()
+
+**Lecture 1: Basic concepts**
+
+  - Slides: `html` | `pdf`
+
+
+## Lab Session notes/slides/videos
+
+*Note*: Lab session slides created using [Quarto](https://quarto.org/), with templates mainly inspired by [Mine Çetinkaya-Rundel](https://mine-cr.com/)'s SCSS file.
+
+<br>
+
+**Lab 1**: Introduction to `R`, `RStudio`, and the `tidyverse`
+
+  - Slides: [`html`]() | [`pdf`]()
+  - Data: [`toy_data.csv`]() | Data can also be downloaded on `theSpring`
+  - [`Video lecture`](https://youtu.be/SCOCBd1t7Ew)
+
+
+## Assignments
+
+
+
+### Problem Sets
+
+
+### Mini Projects
+
+
+
  
 ## Extra Resources
 
