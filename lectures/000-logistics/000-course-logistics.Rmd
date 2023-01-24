@@ -131,7 +131,7 @@ Wee will meet .hi[three] (3) times per week.
 
   - *"Flipped classroom"* model;
   - Dedicated to *analyzing* and *presenting* macroeconomic data and information;
-  - Video lectures (11) + short *Lab Practices* will be made available *every Thursday*;
+  - Video lectures (11) + short *Lab Practices* will be made available *every Monday*;
   - *Lab Practices* will be due by the end of these sessions;
   - Mondays will also be used to go over *more examples* and work through *Problem Sets* and *Mini Projects*.
 
