@@ -17,7 +17,7 @@ Several lecture notes have also benefitted from [JW Mason](http://jwmason.org/)'
 
 <br>
 
-**Lecture 0: What are we doing here?**
+**Lecture 0: Course Logistics**
 
   - Slides: [`html`]() | [`pdf`]()
 
