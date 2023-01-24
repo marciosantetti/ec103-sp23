@@ -34,12 +34,16 @@ Several lecture notes have also benefitted from [JW Mason](http://jwmason.org/)'
 
 **Lab 1**: Introduction to `R`, `RStudio`, and the `tidyverse`
 
-  - Slides: [`html`]() | [`pdf`]()
-  - Data: [`toy_data.csv`]() | Data can also be downloaded on `theSpring`
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/001-tidyverse/001-tidyverse.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/001-tidyverse/001-tidyverse.pdf)
+  - Data: [`toy_data.csv`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/001-tidyverse/toy_data.csv) | Data can also be downloaded on `theSpring`
   - [`Video lecture`](https://youtu.be/SCOCBd1t7Ew)
 
 
 ## Assignments
+
+### Lab Practices
+
+  - [`Lab Practice 1`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp1-sp23.pdf) (due 01/30, 12:10 PM)
 
 
 
