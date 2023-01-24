@@ -1,0 +1,197 @@
+---
+title: ".b[Course Logistics]"
+subtitle: ".b[.green[EC 103--003]]"
+author: "Marcio Santetti"
+date: "Spring 2023"
+output:
+  xaringan::moon_reader:
+    css: ['default', 'metropolis', 'metropolis-fonts', 'skid-css.css']
+    # self_contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      ratio: "16:9"
+      countIncrementalSlides: false
+---
+class: inverse, middle
+
+
+```{r Setup, include = F}
+options(htmltools.dir.version = FALSE)
+library(pacman)
+p_load(broom, latex2exp, ggplot2, ggthemes, ggforce, viridis, dplyr, magrittr, knitr, parallel, xaringanExtra, tidyverse, sjPlot, showtext, mathjaxr, ggforce, furrr, kableExtra, wooldridge, hrbrthemes, scales, ggeasy, patchwork)
+
+
+
+
+# Knitr options
+opts_chunk$set(
+  comment = "#>",
+  fig.align = "center",
+  fig.height = 7,
+  fig.width = 10.5,
+  warning = F,
+  message = F,
+  dpi=300
+)
+
+theme_set(theme_ipsum_rc())
+
+```
+
+class: middle, center, inverse
+
+.huge[.huge[.huge[.b[Hello!]]]]
+
+
+
+---
+class: middle, center, inverse
+
+
+.huge[.b[Marcio Santetti, Ph.D. (*he/him*)]]
+
+<br>
+
+<img style="border-radius: 30%;" src="jm1_cropped.png" width="150px"/>
+
+
+
+[`r fontawesome::fa("envelope")` msantetti@skidmore.edu](mailto:msantetti@skidmore.edu)
+
+---
+layout: false
+class: inverse, middle
+
+# Motivation
+
+---
+
+# Motivation
+
+<br><br><br>
+
+.center[
+
+A little about myself...
+
+]
+
+---
+
+# Motivation
+
+
+<br><br><br>
+
+.center[
+
+What about you?
+
+
+]
+
+
+<br><br>
+
+- Your .hi[name];
+
+- Preferred .hi-orange[pronouns];
+
+- .hi[Year];
+
+- ... *anything* that crosses your mind!
+
+
+---
+
+layout: false
+class: inverse, middle
+
+# Some logistics
+
+---
+
+# Our weekly structure
+
+Wee will meet .hi[three] (3) times per week.
+
+--
+
+<br>
+
+- .hi[Wednesdays] and .hi[Fridays] (*WeFr*) are .hi-orange[*lecture*] days
+
+  - We will go over the programmed content, work out some examples, do discussions...
+  
+--
+
+
+- .hi[Mondays] (*Mo*) are .hi-orange[*shorter*] sessions
+
+  - *"Flipped classroom"* model;
+  - Dedicated to *analyzing* and *presenting* macroeconomic data and information;
+  - Video lectures (11) + short *Lab Practices* will be made available *every Thursday*;
+  - *Lab Practices* will be due by the end of these sessions;
+  - Mondays will also be used to go over *more examples* and work through *Problem Sets* and *Mini Projects*.
+
+---
+
+# A real-world look
+
+<br><br>
+
+- [`Inflation Is Cooling, Leaving America Asking: What Comes Next? (NYT)`](https://archive.is/20230123141834/https://www.nytimes.com/2023/01/23/business/economy/inflation-turning-point.html)
+
+- [`Biggest Pay Raises Went to Black Workers, Young People and Low-Wage Earners (WSJ)`](https://archive.is/4eSMD)
+
+- [`China’s re-globalisation paradox (The Economist)`](https://archive.is/20230122144610/https://www.economist.com/finance-and-economics/2023/01/19/chinas-re-globalisation-paradox#selection-593.0-593.32)
+
+- [`How the young spend their money (The Economist)`](https://archive.is/20230120163713/https://www.economist.com/business/2023/01/16/how-the-young-spend-their-money)
+
+
+<br><br>
+
+In addition to writing about .hi[economic] issues, what do all of these have .hi-orange[in common]?
+
+
+---
+
+# A real-world look
+
+<br>
+
+*Data* permeate every area of knowledge.
+
+  - And in Economics, this is no different!
+  
+--
+
+<br><br>
+
+Therefore, this course will combine .hi[theoretical] principles with .hi-orange[real-world] analyses.
+
+--
+
+<br>
+
+This way, we can .hi[*make informed decisions*].
+
+---
+
+layout: false
+class: inverse, middle
+
+# Syllabus time
+
+---
+
+layout: false
+class: inverse, middle
+
+# Next time: Basic concepts
+
+
+---
+exclude: true
+

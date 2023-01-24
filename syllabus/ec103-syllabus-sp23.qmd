@@ -31,7 +31,7 @@ format:
 
 \begin{tabular}{ll|l} 
 	\textbf{When:} & \multicolumn{2}{l}{Mo 11:15 AM--12:10 PM \& WeFr 10:10 AM--11:30 AM} \\
-	\textbf{Where:} & \multicolumn{2}{l}{Annex 127 (\href{https://www.skidmore.edu/directions/maps.php}{\texttt{map}})} \\
+	\textbf{Where:} & \multicolumn{2}{l}{Bolton 382 (\href{https://www.skidmore.edu/directions/maps.php}{\texttt{map}})} \\
 	\textbf{Who:} & \, \faMortarBoard \,  Marcio Santetti, Ph.D. (\textit{he/him}) & \, \faEnvelopeO \, \href{mailto:msantetti@skidmore.edu}{\texttt{msantetti@skidmore.edu}} \\
 	& \, \faHourglassHalf \, MoWe 12:30--2:00 PM$^*$ & \, \faUniversity \, Filene 207 \\
 	\textbf{Web:} & \, \faPencil \, \href{https://github.com/marciosantetti/ec103-sp23/blob/main/README.md}{\texttt{Course GitHub Repository}} \\
@@ -147,7 +147,7 @@ Unsatisfactory performance                      F (0--60\%)
 * **Mar 11--19**: Spring Vacation
 * **Apr 13**: Course withdrawal deadline
 * **May 2**: Last day of classes
-* ***May ??***: ???
+* ***May 11***: Submit last Mini Project by 12:00 PM
 
 
 
@@ -276,3 +276,4 @@ If a student, supervisor, coach, or faculty member feels the policy is being vio
 ## Diversity and Inclusion
 
 Skidmore College is committed to fostering a diverse and inclusive community in which members develop their abilities to live in a complex and interconnected world. Consistent with our educational mission, we recognize ourselves as a community that respects individual identities based on varying sociocultural characteristics such as race, ethnicity, gender identity and expression, sexual orientation, national origin, first language, religious and spiritual tradition, age, ability, socioeconomic status and learning style. We strive to create a socially just world that honors the dignity and worth of each individual, and we seek to build a community centered on mutual respect and openness to ideas—one in which individuals value cultural and intellectual diversity and share the responsibility for creating a welcoming, safe and inclusive environment. We recognize that our community is most inclusive when all members participate to their full capacity in the spirited and sometimes challenging conversations that are at the center of the college's educational mission.
+Footer
