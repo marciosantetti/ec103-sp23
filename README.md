@@ -19,7 +19,7 @@ Several lecture notes have also benefitted from [JW Mason](http://jwmason.org/)'
 
 **Lecture 0: Course Logistics**
 
-  - Slides: [`html`]() | [`pdf`]()
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/000-logistics/000-course-logistics.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/000-logistics/000-course-logistics.pdf)
 
 **Lecture 1: Basic concepts**
 
