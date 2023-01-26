@@ -23,7 +23,7 @@ Several lecture notes have also benefitted from [JW Mason](http://jwmason.org/)'
 
 **Lecture 1: Basic concepts**
 
-  - Slides: `html` | `pdf`
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/001-basic-concepts/001-basic-concepts.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/001-basic-concepts/001-basic-concepts.pdf)
 
 
 ## Lab Session notes/slides/videos
@@ -52,7 +52,7 @@ Several lecture notes have also benefitted from [JW Mason](http://jwmason.org/)'
 
 ### Mini Projects
 
-
+  - [`Mini Project 1`](https://raw.githack.com/marciosantetti/ec103-sp23/main/mini-projects/mp1-sp23.pdf) (due 02/20, before class)
 
  
 ## Extra Resources
