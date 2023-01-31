@@ -38,12 +38,19 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - Data: [`toy_data.csv`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/001-tidyverse/toy_data.csv) | Data can also be downloaded on `theSpring`
   - [`Video lecture`](https://youtu.be/SCOCBd1t7Ew)
 
+**Lab 2**: Manipulating data in the `tidyverse`
+ 
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/002-data-manipulation/002-data-manipulation.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/002-data-manipulation/002-data-manipulation.pdf)
+  - [`Video lecture`](https://youtu.be/h8em0bYRgvY)
+
 
 ## Assignments
 
 ### Lab Practices
 
   - [`Lab Practice 1`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp1-sp23.pdf) (due 01/30, 12:10 PM)
+  - [`Lab Practice 2`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp2-sp23.pdf) (due 02/06, 12:10 PM)
+
 
 
 
