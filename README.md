@@ -25,6 +25,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/001-basic-concepts/001-basic-concepts.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/001-basic-concepts/001-basic-concepts.pdf)
 
+**Lecture 2: The macroeconomic perspective**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/002-macro-perspective.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/002-macro-perspective.pdf)
+
 
 ## Lab Session notes/slides/videos
 
