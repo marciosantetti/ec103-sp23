@@ -29,6 +29,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/002-macro-perspective.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/002-macro-perspective.pdf)
 
+**Lecture 3: GDP: Shapes and forms**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/003-gdp.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/003-gdp.pdf)
+
 
 ## Lab Session notes/slides/videos
 
