@@ -54,6 +54,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lab 3**: Manipulating economic data with the `tidyverse`
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/003-data-manipulation-2/003-data-manipulation-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/003-data-manipulation-2/003-data-manipulation-2.pdf)
+  - Data: [`gdp-data.csv`](https://raw.githack.com/marciosantetti/ec103-fall22/main/lab/003-data-manipulation-2/gdp-data.csv) | Data can also be downloaded on `theSpring`
   - [`Video lecture`](https://youtu.be/z5ON3xXREiA)
 
 
