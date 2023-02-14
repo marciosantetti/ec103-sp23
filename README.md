@@ -82,6 +82,8 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 
 ### Problem Sets
 
+  - [`Problem Set 1`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps1-sp23.pdf) (due 03/01, 10:10 AM)
+
 
 ### Mini Projects
 
