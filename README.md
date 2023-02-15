@@ -38,6 +38,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/003-gdp-discussion.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/003-gdp-discussion.pdf)
 
 
+**Lecture 4: Economic growth I**
+
+  - [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.pdf)
+
+
 ## Lab Session notes/slides/videos
 
 *Note*: Lab session slides created using [Quarto](https://quarto.org/), with templates mainly inspired by [Mine Çetinkaya-Rundel](https://mine-cr.com/)'s SCSS file.
