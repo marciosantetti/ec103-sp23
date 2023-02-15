@@ -40,7 +40,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 
 **Lecture 4: Economic growth I**
 
-  - [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.pdf)
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.pdf)
 
 
 ## Lab Session notes/slides/videos
