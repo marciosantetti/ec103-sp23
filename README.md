@@ -38,7 +38,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/003-gdp-discussion.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/002-macro-perspective/003-macro-perspective/003-gdp-discussion.pdf)
 
 
-**Lecture 4: Economic growth I**
+**Lecture 5: Economic growth I**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.pdf)
 
