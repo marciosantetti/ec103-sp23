@@ -43,6 +43,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/003-growth.pdf)
 
 
+**Lecture 6: Economic growth II**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/004-growth-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/004-growth-2.pdf)
+
+
 ## Lab Session notes/slides/videos
 
 *Note*: Lab session slides created using [Quarto](https://quarto.org/), with templates mainly inspired by [Mine Çetinkaya-Rundel](https://mine-cr.com/)'s SCSS file.
