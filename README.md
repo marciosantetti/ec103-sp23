@@ -46,6 +46,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 6: Economic growth II**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/004-growth-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/003-growth/004-growth-2.pdf)
+  
+  
+**Lecture 7: Unemployment: Basic definitions**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemployment.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemployment.pdf)
 
 
 ## Lab Session notes/slides/videos
