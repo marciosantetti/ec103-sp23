@@ -76,6 +76,14 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   
    - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/004-graphics/004-ggraphics.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/004-graphics/004-graphics.pdf)
    - [`Video lecture`](https://www.youtube.com/watch?v=u2DRXvWXAPQ&ab_channel=MarcioSantetti)
+   
+   
+**Lab 5**: Making plots informative
+ 
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/005-informative-plots/005-informative-plots.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/005-informative-plots/005-informative-plots.pdf)
+  - Data: [`unemp-data.csv`](https://raw.githack.com/marciosantetti/ec103-fall22/main/lab/005-informative-plots/unemp-data.csv) | Data can also be downloaded on `theSpring`
+  - [`Video lecture`](https://youtu.be/pMhebKitqqU)
+ 
 
 
 ## Assignments
