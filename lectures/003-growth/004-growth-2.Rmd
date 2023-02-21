@@ -191,12 +191,12 @@ As a consequence, the economy's .hi-orange[productivity] and .hi[standards of li
 layout: false
 class: inverse, middle
 
-# Growh in numbers
+# Growth in numbers
 
 
 ---
 
-# Growh in numbers
+# Growth in numbers
 
 .smaller[Starting from:]
 
@@ -232,7 +232,7 @@ p
 
 ---
 
-# Growh in numbers
+# Growth in numbers
 
 .pull-left[
 ```{r, echo = FALSE, message = FALSE, dev = "svg", fig.asp = 0.9}
