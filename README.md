@@ -53,7 +53,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemployment.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemployment.pdf)
 
 
-**Lecture 8: Relationships**
+**Lecture 8: Unemployment: Relationships**
 
   - Slides: [`html`](https://raw.githubusercontent.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemp-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemp-2.pdf)
 
