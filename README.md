@@ -53,6 +53,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemployment.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemployment.pdf)
 
 
+**Lecture 8: Unemployment: Relationships**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemp-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemp-2.pdf)
+
+
 ## Lab Session notes/slides/videos
 
 *Note*: Lab session slides created using [Quarto](https://quarto.org/), with templates mainly inspired by [Mine Çetinkaya-Rundel](https://mine-cr.com/)'s SCSS file.
@@ -112,6 +117,8 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 ### Mini Projects
 
   - [`Mini Project 1`](https://raw.githack.com/marciosantetti/ec103-sp23/main/mini-projects/mp1-sp23.pdf) (due 02/20, before class)
+  
+  - [`Mini Project 2`](https://raw.githack.com/marciosantetti/ec103-sp23/main/mini-projects/mp2-sp23.pdf) (due 04/03, before class)
 
  
 ## Extra Resources
