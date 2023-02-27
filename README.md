@@ -93,6 +93,12 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/005-informative-plots/005-informative-plots.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/005-informative-plots/005-informative-plots.pdf)
   - Data: [`unemp-data.csv`](https://raw.githack.com/marciosantetti/ec103-fall22/main/lab/005-informative-plots/unemp-data.csv) | Data can also be downloaded on `theSpring`
   - [`Video lecture`](https://youtu.be/pMhebKitqqU)
+  
+**Lab 6**: Customizing and saving plots
+ 
+   - Slides:  [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/006-custom-plots/006-customizing-plots.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/006-custom-plots/006-customizing-plots.pdf)
+   - Data: [`lab6_data.csv`](https://raw.githack.com/marciosantetti/ec103-fall22/main/lab/006-custom-plots/lab6_data.csv) | Data can also be downloaded on `theSpring`
+   - [`Video lecture`](https://youtu.be/HMc9_Zumfa4)
  
 
 
