@@ -111,7 +111,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`Lab Practice 3`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp3-sp23.pdf) (due 02/13, 12:10 PM)
   - [`Lab Practice 4`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp4-sp23.pdf) (due 02/20, 12:10 PM)
   - [`Lab Practice 5`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp5-sp23.pdf) (due 02/27, 12:10 PM)
-
+  - [`Lab Practice 6`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp6-sp23.pdf) (due 03/06, 12:10 PM)
 
 
 
