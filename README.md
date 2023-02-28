@@ -56,6 +56,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 8: Unemployment: Relationships**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemp-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/005-unemp/005-unemp-2.pdf)
+  
+  
+**Lecture 9: Inflation: Introduction**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-1.pdf)
 
 
 ## Lab Session notes/slides/videos
