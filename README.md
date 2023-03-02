@@ -63,6 +63,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-1.pdf)
 
 
+**Lecture 10: Inflation vs. Unemployment**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-2.pdf)
+
+
 ## Lab Session notes/slides/videos
 
 *Note*: Lab session slides created using [Quarto](https://quarto.org/), with templates mainly inspired by [Mine Çetinkaya-Rundel](https://mine-cr.com/)'s SCSS file.
