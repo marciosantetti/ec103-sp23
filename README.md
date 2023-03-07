@@ -109,6 +109,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
    - Slides:  [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/006-custom-plots/006-customizing-plots.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/006-custom-plots/006-customizing-plots.pdf)
    - Data: [`lab6_data.csv`](https://raw.githack.com/marciosantetti/ec103-fall22/main/lab/006-custom-plots/lab6_data.csv) | Data can also be downloaded on `theSpring`
    - [`Video lecture`](https://youtu.be/HMc9_Zumfa4)
+   
+ **Lab 7**: Dealing with dates
+ 
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/007-dates/007-dates.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/007-dates/007-dates.pdf)
+  - [`Video lecture`](https://youtu.be/h0jWmgYe3zI)
  
 
 
@@ -122,6 +127,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`Lab Practice 4`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp4-sp23.pdf) (due 02/20, 12:10 PM)
   - [`Lab Practice 5`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp5-sp23.pdf) (due 02/27, 12:10 PM)
   - [`Lab Practice 6`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp6-sp23.pdf) (due 03/06, 12:10 PM)
+  - [`Lab Practice 7`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp7-sp23.pdf) (due 03/20, 12:10 PM)
 
 
 
