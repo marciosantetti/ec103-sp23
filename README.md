@@ -66,6 +66,12 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 10: Inflation vs. Unemployment**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-2.pdf)
+  
+  
+**Lecture 11: Inflation & monetary policy**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-3.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-3.pdf)
+  - Inflation & Unemployment discussions: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-discussions.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-discussions.pdf)
 
 
 ## Lab Session notes/slides/videos
@@ -134,6 +140,8 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 ### Problem Sets
 
   - [`Problem Set 1`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps1-sp23.pdf) (due 03/01, 10:10 AM)
+  
+  - [`Problem Set 2`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps2-sp23.pdf) (due 03/22, 10:10 AM)
 
 
 ### Mini Projects
