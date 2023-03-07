@@ -1,8 +1,8 @@
 ---
-title: ".b[Inflation, pt. III]"
-subtitle: ".b[.green[EC 103--02]]"
+title: ".b[Inflation, pt. 3]"
+subtitle: ".b[.green[EC 103--003]]"
 author: "Marcio Santetti"
-date: "Fall 2022"
+date: "Spring 2023"
 output:
   xaringan::moon_reader:
     css: ['default', 'metropolis', 'metropolis-fonts', 'skid-css.css']
@@ -56,9 +56,14 @@ theme_set(theme_ipsum_rc())
 
   - [`FAQs About Treasury Marketable Securities`](https://treasurydirect.gov/help-center/marketable-faqs/)
   
-  - [`A Warning for the World Economy: The worst is yet to come (NYT)`](https://archive.ph/20221012063646/https://www.nytimes.com/2022/10/11/business/imf-world-economy-forecast.html)
+<br>
+
+.b[Required listening]:
+
+  - [`Monetary Policy - The Economic Lowdown Podcast Series`](https://www.stlouisfed.org/education/economic-lowdown-podcast-series/episode-20-monetary-policy)
   
-  - [`The Fed Wants to Quash Inflation. But Can It Do It More Gently? (NYT)`](https://archive.ph/20221006193257/https://www.nytimes.com/2022/10/06/business/economy/fed-mary-daly-interview.html)
+  - [`Planet Money podcast: The Fed & Volcker's Socks`](https://www.npr.org/2022/08/24/1119331894/planet-money-summer-school-7-the-fed-volckers-socks)
+
 ---
 
 layout: false
@@ -70,7 +75,7 @@ class: inverse, middle
 
 # Central banks & inflation
 
-As it is possible to see from the articles, .hi[Central Banks] play a crucial role during an inflationary period.
+.hi[Central Banks] play a crucial role during an inflationary period.
 
 --
 
@@ -159,14 +164,6 @@ Conversely, when there is excess .hi[supply] of goods and services, more people 
 
 In both scenarios, .hi[central banks] are the those in charge of adjusting .hi-orange[observed GDP] to its .hi[potential] level.
 
----
-
-# Central banks & inflation
-
-<br><br>
-
-
-[`Potential GDP vs. actual GDP`](https://fred.stlouisfed.org/series/GDPPOT)
 
 ---
 
@@ -187,6 +184,10 @@ This way, central banks basically employ .hi[countercyclical] policies to manage
 <br>
 
 Economic policies conducted by central banks fall under the category of .hi[monetary policy].
+
+--
+
+> .hi[Monetary policy] involves influencing the economy through changes in the banking system's *reserves*, thus affecting the *supply of money* and the availability of *credit.*
 
   - The .hi[main] monetary policy tool is controlling .hi-orange[interest rates].
 
@@ -212,11 +213,11 @@ Beyond other issues, monetary policy addresses these three problems through .hi-
 
 --
 
-  - *How much money?* Money supply;
+  - .mono[How much money?] Money supply;
   
-  - *How easy to obtain money?* Controlling credit access;
+  - .mono[How easy to obtain money?] Controlling credit access;
   
-  - *How costly to have money in hand?* Controlling interest rates.
+  - .mono[How costly to have money in hand?] Controlling interest rates.
   
 --
 
@@ -360,7 +361,7 @@ The *pipeline* goes as follows:
 
 --
 
-- How these interest rates change will affect households and businesses, especially in their consumption of durable goods (e.g., cars), and investment decisions (higher price of credit &rarr; less willingness to invest);
+- How these interest rates change will affect households and businesses, especially in their .hi[consumption] of durable goods (e.g., cars), and .hi[investment] decisions (higher price of credit &rarr; less willingness to invest);
 
 --
 
@@ -434,8 +435,7 @@ class: inverse, middle
 layout: false
 class: inverse, middle
 
-# Next time: Inflation discussions
-
+# Next time: International trade
 
 ---
 exclude: true
