@@ -1,0 +1,104 @@
+---
+title: "Variable classes"
+subtitle: "EC 103--003"
+author: "Marcio Santetti"
+footer: "EC 103--003"
+format: 
+  revealjs:
+    theme: lab.scss
+    multiplex: true
+    transition: fade
+    slide-number: true
+    incremental: true 
+    chalkboard: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+```{r}
+#| include: false
+# figure options
+knitr::opts_chunk$set(
+  fig.width = 10, fig.asp = 0.618,
+  fig.retina = 3, dpi = 300, fig.align = "center"
+)
+```
+
+# Dealing with variable classes
+
+## Dealing with variable classes
+
+<br><br>
+
+Every column in our data sets pertains to a certain **class**.
+
+## Dealing with variable classes
+
+```{r}
+#| echo: true
+#| message: false
+
+
+library(tidyverse)
+unemployment_rate <- read_csv("unrate.csv")
+
+unemployment_rate
+```
+
+## Dealing with variable classes
+
+<br><br>
+
+But sometimes our variables are imported with a **different class** than the one we desire.
+
+## Dealing with variable classes
+
+```{r}
+#| echo: true
+#| message: false
+
+
+net_exports <- read_csv("netexp.csv")
+
+net_exports
+
+```
+
+## Dealing with variable classes
+
+```{r}
+#| echo: true
+#| message: false
+
+
+net_exports %>% 
+  ggplot(aes(x = date, y = netexp)) +
+  geom_line()
+
+
+```
+
+## Dealing with variable classes
+
+```{r}
+#| echo: false
+#| message: false
+
+
+library(tsibble)
+
+net_exports %>% 
+  mutate(period = seq(as.Date("1947-01-01"), by = "quarter", length.out = 302)) %>% 
+  ggplot(aes(x = period, y = netexp)) +
+  geom_line() +
+  scale_x_yearquarter()
+
+
+```
+
+## Dealing with variable classes
+
+<br><br>
+
+Let us learn how to deal with variable classes in practice.
