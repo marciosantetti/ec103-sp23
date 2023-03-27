@@ -129,6 +129,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/008-variable-classes/008-variable-classes.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/008-variable-classes/008-variable-classes.pdf)
   - [`Video lecture`](https://youtu.be/ZJ-AyQC4OOs)
+  
+**Lab 9**: Beautiful tables with `{gt}`
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/009-gt-tables/009-gt-tables.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/009-gt-tables/009-gt-tables.pdf)
+  - [`Video lecture`](https://youtu.be/OmSeD7R-7Qs)
 
 
 ## Assignments
@@ -143,7 +148,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`Lab Practice 6`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp6-sp23.pdf) (due 03/06, 12:10 PM)
   - [`Lab Practice 7`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp7-sp23.pdf) (due 03/20, 12:10 PM)
   - [`Lab Practice 8`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp8-sp23.pdf) (due 03/27, 12:10 PM)
-
+  - [`Lab Practice 9`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp9-sp23.pdf) (due 04/03, 12:10 PM)
 
 
 ### Problem Sets
