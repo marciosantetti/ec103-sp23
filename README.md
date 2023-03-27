@@ -72,6 +72,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-3.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-3.pdf)
   - Inflation & Unemployment discussions: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-discussions.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/006-inflation/006-inflation-discussions.pdf)
+  
+**Lecture 12: Exchange rates**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/007-international/007-international-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/007-international/007-international-1.pdf)
 
 
 ## Lab Session notes/slides/videos
@@ -121,6 +125,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/007-dates/007-dates.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/007-dates/007-dates.pdf)
   - [`Video lecture`](https://youtu.be/h0jWmgYe3zI)
  
+**Lab 8**: Variable classes
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/008-variable-classes/008-variable-classes.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/008-variable-classes/008-variable-classes.pdf)
+  - [`Video lecture`](https://youtu.be/ZJ-AyQC4OOs)
 
 
 ## Assignments
@@ -134,6 +142,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`Lab Practice 5`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp5-sp23.pdf) (due 02/27, 12:10 PM)
   - [`Lab Practice 6`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp6-sp23.pdf) (due 03/06, 12:10 PM)
   - [`Lab Practice 7`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp7-sp23.pdf) (due 03/20, 12:10 PM)
+  - [`Lab Practice 8`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp8-sp23.pdf) (due 03/27, 12:10 PM)
 
 
 
