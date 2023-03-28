@@ -57,8 +57,12 @@ theme_set(theme_ipsum_rc())
   
     - Sections `10.1`, `10.2`, and `10.3`.
 
+<br><br>
 
 
+.b[Required watching]:
+
+  - [`IMF Institute Learning Channel: Exchange rate regimes`](https://www.youtube.com/watch?v=4xcEfd35XRU)
 
 ---
 
@@ -105,7 +109,7 @@ But how are these transactions recorded?
 
 <br>
 
-> The .hi-orange[balance of payments] records a country's transactions in goods, services, and assets with the rest of the world. It also records a country's supply and demand of foreign exchange.
+> The .hi-orange[balance of payments] records a country's transactions in *goods*, *services*, and *assets* with the rest of the world. It also records a country's *supply* and *demand* of foreign exchange.
 
 --
 
@@ -198,9 +202,9 @@ The difference between (1) and (2) is the country's .hi[trade balance].
 
 <br>
 
-  - When money .hi[flows out] of a country, the operations receive a *negative* sign.
+  - When money .hi[flows out] of a country, these operations receive a *negative* sign.
   
-  - When money .hi[flows into] a country, the operations receive a *positive* sign.
+  - When money .hi[flows into] a country, these operations receive a *positive* sign.
 
 --
 
