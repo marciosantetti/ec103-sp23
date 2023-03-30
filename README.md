@@ -80,6 +80,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 13: Balance of payments**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/007-international/007-international-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/007-international/007-international-2.pdf)
+  
+**Lecture 14: Aggregate expenditures**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/008-agg-exp/008-agg-exp.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/008-agg-exp/008-agg-exp.pdf)
 
 
 ## Lab Session notes/slides/videos
