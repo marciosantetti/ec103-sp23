@@ -76,6 +76,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 12: Exchange rates**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/007-international/007-international-1.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/007-international/007-international-1.pdf)
+  
+**Lecture 13: Balance of payments**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/007-international/007-international-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/007-international/007-international-2.pdf)
 
 
 ## Lab Session notes/slides/videos
