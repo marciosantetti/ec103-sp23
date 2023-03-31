@@ -1,0 +1,149 @@
+---
+title: 'EC 103--003'
+subtitle: "Prof. Santetti | Spring 2023"
+author:
+  name: "Lab practice 10"
+# date: "`r format(Sys.time(), '%d %B %Y')`" ## Or "Lecture no."
+output: 
+  html_document:
+    theme: flatly
+    highlight: haddock
+    # code_folding: show
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+    keep_md: false
+    keep_tex: false ## Change to true if want keep intermediate .tex file
+    css: preamble.css ## For multi-col environments
+  pdf_document:
+    latex_engine: xelatex
+    toc: true
+    dev: cairo_pdf
+    # fig_width: 7 ## Optional: Set default PDF figure width
+    # fig_height: 6 ## Optional: Set default PDF figure height
+    includes:
+      in_header: preamble.tex ## For multi-col environments
+    pandoc_args:
+        --template=mytemplate.tex ## For affiliation field. See: https://bit.ly/2T191uZ
+always_allow_html: true
+urlcolor: blue
+mainfont: cochineal
+sansfont: Fira Sans
+monofont: Fira Code ## Although, see: https://tex.stackexchange.com/q/294362
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE, dpi=300)
+```
+
+
+<br>
+
+---
+
+Lab Practices have the purpose of reviewing the previous applied video lecture(s) and introducing new content to improve students' empirical macroeconomic analysis using R and RStudio.
+
+In this practice, you will produce interactive charts using the `{plotly}` package.
+
+
+There is 1 problem, worth 10 points.
+
+<br>
+
+`Assignment due April 10 (M), before class`. <br>
+`Points Possible: 10`
+
+
+
+<br><br>
+
+- You have 1 week to complete this assignment. See our `course syllabus` for late submissions policies.
+
+- Be honest. Don't cheat.
+
+- As a Skidmore student, always recall your votes of academic integrity, and the `Honor Code` you have abided by:
+
+<br>
+
+
+> *"I hereby accept membership in the Skidmore College community and, with full realization of the responsibilities inherent in membership, do agree to adhere to honesty and integrity in all relationships, to be considerate of the rights of others, and to abide by the college regulations."*
+
+
+<br><br><br>
+
+
+Have fun!
+
+---
+
+
+<br><br>
+
+
+# Problem 1
+
+<br>
+
+The `plotly` package works really well with `ggplot2`. In practice, we set up our plots with `ggplot2`, and then we use the `ggplotly()` function to make it interactive.
+
+A few weeks ago, you produced a chart to visualize the U.S. economy's **balance on current account**. Based on what we've learned in the last video lecture, its *interactive* version looks like so:
+
+
+<br>
+
+```{r, message=FALSE, warning=FALSE, fig.width=3, fig.height=2}
+library(tidyverse)
+library(ggthemes)
+library(plotly)
+
+theme_set(theme_light())
+
+us_current_acct <- read_csv("current_account_balance.csv")
+
+
+plot_us <- us_current_acct %>% 
+  mutate(period = seq(as.Date("1947-01-01"), by = "quarter", length.out = 303)) %>% 
+  ggplot(aes(x = period, y = current_account)) +
+  geom_line() +
+  labs(x = "", 
+       y = "Billions of dollars", 
+       title = "United States: Balance on current account, 1947Q1 - 2022Q3") +
+  geom_area(alpha = 0.3, fill = "#635f83")
+
+plot_us %>% 
+  ggplotly() %>% 
+  layout(xaxis = list(rangeslider = list(visible = TRUE)))
+
+```
+
+
+
+<br><br>
+
+Now, it's your turn!
+
+Use this [`link`](https://fred.stlouisfed.org/series/EA19B6BLTT02STSAQ) to download the current account balance (as a % of GDP) for the Euro area. Reproduce the following interactive chart:
+
+
+
+```{r, message=FALSE, warning=FALSE, fig.width=3, fig.height=2, echo=FALSE}
+
+theme_set(theme_light())
+
+eu_current_acct <- read_csv("eu_account_balance.csv")
+
+
+plot_eu <- eu_current_acct %>% 
+  ggplot(aes(x = DATE, y = EA19B6BLTT02STSAQ)) +
+  geom_line() +
+  labs(x = "", 
+       y = "% OF GDP", 
+       title = "Euro Area: Balance on current account (% of GDP), 1999Q1 - 2022Q3") +
+  geom_area(alpha = 0.2, fill = "#e28c1f")
+
+plot_eu %>% 
+  ggplotly() %>% 
+  layout(xaxis = list(rangeslider = list(visible = TRUE)))
+
+```
+
