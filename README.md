@@ -144,6 +144,12 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`Video lecture`](https://youtu.be/OmSeD7R-7Qs)
 
 
+**Lab 10**: Interactive plots with `{plotly}`
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/010-interactive-plots/011-interactive.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab/010-interactive-plots/010-interactive.pdf)
+  - [`Video lecture`](https://youtu.be/J7e96dvjstc)
+
+
 ## Assignments
 
 ### Lab Practices
@@ -157,6 +163,7 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`Lab Practice 7`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp7-sp23.pdf) (due 03/20, 12:10 PM)
   - [`Lab Practice 8`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp8-sp23.pdf) (due 03/27, 12:10 PM)
   - [`Lab Practice 9`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp9-sp23.pdf) (due 04/03, 12:10 PM)
+  - [`Lab Practice 10`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lab-practices/lp10/lp10-sp23.html) (due 04/10, 12:10 PM)
 
 
 ### Problem Sets
