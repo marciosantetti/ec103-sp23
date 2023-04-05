@@ -88,6 +88,11 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 15: The basic multiplier**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/008-agg-exp/008-agg-exp-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/008-agg-exp/008-agg-exp-2.pdf)
+  
+  
+**Lecture 16: Government expenditures & fiscal policy**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/009-govt/009-govt.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/009-govt/009-govt.pdf)
 
 
 ## Lab Session notes/slides/videos
