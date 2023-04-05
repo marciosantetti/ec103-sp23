@@ -57,13 +57,7 @@ theme_set(theme_ipsum_rc())
   
     - See *Extra Readings* module on `theSpring`.
     
-    
-.b[For the next lecture]:
 
-  - Yahoo! Finance on the "*Inflation Reduction Act*"
-  
-    - [`Youtube link here (watch the "key moments"`)](https://www.youtube.com/watch?v=UJ-vP063Yww&ab_channel=YahooFinance)
-  
 ---
 
 # Government: Good or bad for the economy?
