@@ -84,6 +84,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 14: Aggregate expenditures**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/008-agg-exp/008-agg-exp.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/008-agg-exp/008-agg-exp.pdf)
+  
+**Lecture 15: The basic multiplier**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/008-agg-exp/008-agg-exp-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/008-agg-exp/008-agg-exp-2.pdf)
 
 
 ## Lab Session notes/slides/videos
@@ -171,6 +175,8 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`Problem Set 1`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps1-sp23.pdf) (due 03/01, 10:10 AM)
   
   - [`Problem Set 2`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps2-sp23.pdf) (due 03/22, 10:10 AM)
+  
+  - [`Problem Set 3`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps3-sp23.pdf) (due 04/19, 10:10 AM)
 
 
 ### Mini Projects
