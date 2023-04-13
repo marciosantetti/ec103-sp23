@@ -93,6 +93,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 16: Government expenditures & fiscal policy**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/009-govt/009-govt.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/009-govt/009-govt.pdf)
+  
+**Lecture 17: Money supply**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/010-money-supply/010-money.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/010-money-supply/010-money.pdf)
 
 
 ## Lab Session notes/slides/videos
@@ -182,6 +186,8 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
   - [`Problem Set 2`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps2-sp23.pdf) (due 03/22, 10:10 AM)
   
   - [`Problem Set 3`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps3-sp23.pdf) (due 04/19, 10:10 AM)
+  
+  - [`Problem Set 4`](https://raw.githack.com/marciosantetti/ec103-sp23/main/problem-sets/ps4-sp23.pdf) (due 05/01, 11:15 AM)
 
 
 ### Mini Projects
