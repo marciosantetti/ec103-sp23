@@ -101,6 +101,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 18: Money demand & interest rate salad**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/010-money-supply/010-money-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/010-money-supply/010-money-2.pdf)
+  
+**Lecture 19: Open-economy macro**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/011-open-macro/011-open-macro.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/011-open-macro/011-open-macro.pdf)
 
 
 ## Lab Session notes/slides/videos
