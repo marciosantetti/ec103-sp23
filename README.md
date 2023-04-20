@@ -97,6 +97,10 @@ Several lecture notes have also benefited from [JW Mason](http://jwmason.org/)'s
 **Lecture 17: Money supply**
 
   - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/010-money-supply/010-money.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/010-money-supply/010-money.pdf)
+  
+**Lecture 18: Money demand & interest rate salad**
+
+  - Slides: [`html`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/010-money-supply/010-money-2.html) | [`pdf`](https://raw.githack.com/marciosantetti/ec103-sp23/main/lectures/010-money-supply/010-money-2.pdf)
 
 
 ## Lab Session notes/slides/videos
